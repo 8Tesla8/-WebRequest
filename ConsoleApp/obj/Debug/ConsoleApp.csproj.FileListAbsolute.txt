@@ -1,0 +1,12 @@
+E:\ProjectsVS\WebServer\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\ProjectsVS\WebServer\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+E:\ProjectsVS\WebServer\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\ProjectsVS\WebServer\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\ProjectsVS\WebServer\ConsoleApp\bin\Debug\Library.dll
+E:\ProjectsVS\WebServer\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+E:\ProjectsVS\WebServer\ConsoleApp\bin\Debug\System.Net.Http.Formatting.dll
+E:\ProjectsVS\WebServer\ConsoleApp\bin\Debug\Library.pdb
+E:\ProjectsVS\WebServer\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+E:\ProjectsVS\WebServer\ConsoleApp\bin\Debug\System.Net.Http.Formatting.xml
+E:\ProjectsVS\WebServer\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\ProjectsVS\WebServer\ConsoleApp\obj\Debug\ConsoleApp.pdb
